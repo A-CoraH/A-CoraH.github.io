@@ -1,0 +1,9 @@
+#container {
+    position: relative;
+    height:100%;
+}
+body {
+    background-color: lightskyblue;
+    font-family:fantasy;
+}
+

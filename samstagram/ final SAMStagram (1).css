@@ -1,0 +1,73 @@
+body {
+    background-color: grey;
+    font-family:Arial;
+    margin: 0px;
+}
+.header {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: bold; 
+    
+}
+h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.whitebox { 
+
+    height: 200px;
+    margin: 100px;
+    background-color: white;
+}
+.bill {
+    height: 125px;
+    margin: 100px;
+    background-color: lightgrey;
+    margin-bottom: 150px;
+} 
+
+h4 { 
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+p {
+    font-size: 25px;
+    margin-bottom: 0px
+} 
+a:visited { 
+    color: blue;  
+}
+#img {
+    border-radius: 50%;
+    height: 40px;
+}
+
+   
+.larry {
+    height: 125px;
+    margin: 100px;
+    background-color: lightgrey;
+     margin-bottom: 150px;
+}
+
+.sergey {
+    height: 125px;
+    margin: 100px;
+    background-color: lightgrey;
+     margin-bottom: 150px;
+}
+
+.jeff {
+    height: 125px;
+    margin: 100px;
+    background-color: lightgrey; 
+     margin-bottom: 150px;
+}
