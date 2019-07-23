@@ -38,6 +38,14 @@ p {
     text-align: center;
 }
 
+.projlinks a{
+       border-color: white;
+    font-weight: bold;
+    margin: 0px;
+    font-size: 30px;
+    text-align: center;
+}
+
 .mix {
    /* height: 500px;
     width: 450px;
