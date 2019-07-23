@@ -41,7 +41,7 @@ p {
 .projlinks {
        border-color: white;
     font-weight: bold;
-    margin: 0px;
+    margin-top: 25px;
     font-size: 30px;
     text-align: center;
 }
@@ -85,6 +85,8 @@ ul {
     text-align: center;
     font-size: 30px;
 }
+li {
+    display: inline-block;
 
 #c {
     font-family: 'Indie Flower', cursive;
